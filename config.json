@@ -1,5 +1,6 @@
 {
     "sites": {
-        "dev-pack.org": "dev-pack"
+        "dev-pack.org": "dev-pack",
+        "monhu": "."
    }
 }
