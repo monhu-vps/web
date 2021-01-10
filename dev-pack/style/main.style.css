@@ -1,0 +1,147 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu.ttf);
+}
+@font-face {
+  font-family: "NoTofu";
+  src: url(../font/NotoSansCJKjp-DemiLight.otf);
+}
+:root {
+  --base-font-color: #c993ff;
+  --base-font-color-hover: #b169fa;
+}
+
+
+* {
+  font-family: 'Ubuntu', "NoTofu";
+  margin: 0;
+  font-size:17.5px;
+}
+body {
+  background-color: #f5f5dc;
+}
+
+h2{
+  font-size:30px;
+}
+.beige {
+  background-color: #f5f5dc;
+}
+.white {
+  background-color: white;
+}
+nav {
+  box-shadow: 0px 0px 3.5px 0.5px #000000;
+  margin: 0;
+  color: var(--base-font-color);
+  padding: 10px;
+}
+nav:first-child {
+  margin-right: auto;
+}
+.brand-logo {
+  font-size: 30px;
+  text-decoration: none;
+  color: #c993ff;
+}
+#menu {
+  float: left;
+  width: 300px;
+}
+#container {
+  float: left;
+  padding: 20px 0px 10px 10px;
+}
+#mac {
+  overflow: hidden;
+  margin: 10px;
+}
+#menu {
+  padding: 20px 0px 10px 10px;
+  height:100%;
+}
+#menu ul li {
+  list-style: none;
+}
+#menu ul li a {
+  text-decoration: none;
+  color: var(--base-font-color);
+}
+
+a{
+  color: var(--base-font-color);
+  text-decoration: none;
+}
+a:hover:not(.brand-logo){
+  color: var(--base-font-color-hover);
+  text-decoration: solid underline purple 0.05em;
+}
+#menu ul li a:hover{
+  color: var(--base-font-color-hover);
+  text-decoration: solid underline purple 0.05em;
+}
+.navlist {
+  display: inline;
+  list-style: none;
+  width:70%;
+}
+.navlist li {
+  width: 90px;
+  float:right;
+  height:30px;
+  margin-top:6px;
+  color: #c993ff;
+}
+
+.navlist li a{
+  text-decoration-color: none;
+}
+
+.navlist li a:hover{
+  text-decoration: solid underline purple 0.05em;
+}
+
+.project-card{
+  background-color: white;
+  width:400px;
+  border: #aaaaaa solid 1px;
+  border-radius: 10px;
+  padding:10px;
+}
+.pc-title{
+  display:block;
+  font-size:30px;
+}
+.pc-desc{
+  margin:5px;
+  line-height:25px;
+}
+.pc-link{
+  padding:7.5px;
+  border-top: #aaaaaa solid 1px;
+}
+
+.form-wrap > label{
+  display:block;
+  margin-top:0.25em;
+}
+.form-wrap > input[type=text]{
+  border-radius:5px;
+  border:#aaaaaa solid 0.5px;
+  width:20em;
+}
+
+.form-wrap > textarea{
+  border-radius:5px;
+  border:#aaaaaa solid 0.5px;
+  width:20em;
+  height:10em;
+}
+
+.form-wrap > input[type=submit]{
+  display:block;
+  background-color: #eeeeee;
+  border-radius: 10px;
+  border:#aaaaaa solid 1px;
+  padding:2.5px 15px 2.5px 15px;
+}

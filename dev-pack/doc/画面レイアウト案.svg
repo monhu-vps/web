@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="画面レイアウト案.svg"
+   inkscape:export-filename="C:\Users\takuy\Desktop\#研究\研究組織\DevelopersPackages.org\dev-pack\doc\画面レイアウト案.png"
+   inkscape:export-xdpi="81.245796"
+   inkscape:export-ydpi="81.245796">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="557.08145"
+     inkscape:cy="439.39755"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1842"
+     inkscape:window-height="1051"
+     inkscape:window-x="1669"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <rect
+       style="opacity:1;fill:#d2ff4e;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.26458333, 0.52916666000000001;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4518"
+       width="298.00549"
+       height="18.976137"
+       x="-0.26726955"
+       y="87.193428" />
+    <rect
+       style="opacity:1;fill:#887de9;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.26458333, 0.52916666;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4520"
+       width="71.093697"
+       height="192.43405"
+       x="-0.26726955"
+       y="106.16956" />
+    <rect
+       style="opacity:1;fill:#eb9a8c;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.26458333, 0.52916666;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4522"
+       width="226.91182"
+       height="191.89952"
+       x="70.826393"
+       y="106.16956" />
+    <rect
+       style="opacity:1;fill:#887de9;fill-opacity:1;stroke:#ffffff;stroke-width:0.33011943;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.33011943, 0.66023886;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4524"
+       width="20.781487"
+       height="13.832477"
+       x="4.3090806"
+       y="90.166161" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4526"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffbff;fill-opacity:1;stroke:none;"
+       transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
+         id="flowRegion4528"
+         style="fill:#fffbff;fill-opacity:1;"><rect
+           id="rect4530"
+           width="98.747253"
+           height="58.341137"
+           x="16.286289"
+           y="11.966591"
+           style="fill:#fffbff;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara4532">ロゴ</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4534"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,3.4745039,87.26727)"><flowRegion
+         id="flowRegion4536"><rect
+           id="rect4538"
+           width="527.42352"
+           height="51.393932"
+           x="94.83049"
+           y="11.966591" /></flowRegion><flowPara
+         id="flowPara4540">DevelopersPackages.org</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-0.25916258,106.2614)"
+       xml:space="preserve"
+       id="flowRoot4526-2"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffbff;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4528-1"
+         style="fill:#fffbff;fill-opacity:1"><rect
+           id="rect4530-9"
+           width="215.92494"
+           height="476.54431"
+           x="16.286289"
+           y="11.966591"
+           style="fill:#fffbff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4532-9">メニュー</flowPara><flowPara
+         id="flowPara4590">エリア</flowPara><flowPara
+         id="flowPara4632">(メインのメニューはこっち)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4534-6"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,89.541151,168.2024)"><flowRegion
+         id="flowRegion4536-7"><rect
+           id="rect4538-5"
+           width="527.42352"
+           height="51.393932"
+           x="94.83049"
+           y="11.966591" /></flowRegion><flowPara
+         id="flowPara4540-9">コンテンツ部分</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4534-6-8"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,49.7889,109.21769)"><flowRegion
+         id="flowRegion4536-7-1"><rect
+           id="rect4538-5-2"
+           width="527.42352"
+           height="51.393932"
+           x="94.83049"
+           y="11.966591" /></flowRegion><flowPara
+         id="flowPara4540-9-9">↑ヘッダ部分</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4616"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
+         id="flowRegion4618"><rect
+           id="rect4620"
+           width="195.9695"
+           height="65.65992"
+           x="929.34033"
+           y="6.7919726" /></flowRegion><flowPara
+         id="flowPara4622"
+         style="font-size:32px">メニュー 2</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4624"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.700002,84.354165)"><flowRegion
+         id="flowRegion4626"><rect
+           id="rect4628"
+           width="275.77158"
+           height="94.95433"
+           x="899.03577"
+           y="73.462044" /></flowRegion><flowPara
+         id="flowPara4630"
+         style="font-size:26.66666794px">(Login,GitHub程度)↑</flowPara></flowRoot>  </g>
+</svg>
